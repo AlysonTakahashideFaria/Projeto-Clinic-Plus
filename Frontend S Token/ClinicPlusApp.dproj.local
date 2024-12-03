@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/17 10:21:41.000.582,=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 10:24:06.000.492,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Topicos Avançados de TI\ClinicPlus.Form.fmx</Transaction>
+    <Transaction>2024/09/17 10:24:06.000.492,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Topicos Avançados de TI\ClinicPlus.Form.pas</Transaction>
+    <Transaction>2024/09/17 10:24:23.000.789,C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Topicos Avançados de TI\ClinicPlusApp.dproj</Transaction>
+    <Transaction>2024/12/03 11:07:51.318,C:\Users\aluno\Documents\GitHub\Projeto-Clinic-Plus\Frontend S Token\ClinicPlusApp.dproj=E:\Topicos Avançados de TI\topicos_avancados_ti_clinicplus\ClinicPlusApp.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
